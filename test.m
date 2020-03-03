@@ -6,9 +6,5 @@ myCTRW.gamma = 0;
 myCTRW.alpha = 0.5;
 myCTRW.start;
 
-%%
 myCTRW.plot;
 
-x = myCTRW.x;
-x = x - mean(x);
-entropyAutoregressiveModel(x)
