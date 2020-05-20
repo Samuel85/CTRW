@@ -8,4 +8,4 @@ Program implemented from the paper:
 ```
 ## Warning
 * There is no affiliation with the original authors of the paper.
-* Use the code at your own risk.
+* Use this code at your own risk.
