@@ -1,8 +1,8 @@
 # Continuous Time Random Walk Simulation
 
 ## Info
-Matlab scripts to generate 
-Based on the original paper:
+Matlab scripts to generate random walks time series based on a CTRW model,
+as described  in:
 ```
   Continuous-time random walks: simulation of continuous trajectories.
   Phys Rev E Stat Nonlin Soft Matter Phys. 2007 Dec;76(6 Pt 1):061102. Epub 2007 Dec 4.
