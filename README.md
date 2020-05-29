@@ -9,3 +9,5 @@ Matlab scripts to generate time series based on a CTRW model for a simple harmon
 ## Disclaimer
 * There is no affiliation with the original authors of the paper.
 * This software is provided "as is" with no warranty of any kind. Use this code at your own risk.
+## Contact
+For suggestions or bugs contact me at ssalinas at hotmail c
